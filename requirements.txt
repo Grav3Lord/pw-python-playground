@@ -1,5 +1,6 @@
 pytest
 playwright
 pytest-playwright
-httpx
 python-dotenv
+pytest-xdist
+allure-pytest
